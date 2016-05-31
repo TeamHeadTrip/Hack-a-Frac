@@ -17,13 +17,13 @@ Virtual reality can bring these two things together. Hack-a-Frac is an action ga
 
 ![alt text](https://cdn.virtualrealityreporter.com/wp-content/uploads/2015/08/virtual-reality-kids-6.jpg)
 
-Remember those math educational games like Number Muncher or Math Blaster? Or Where in the World is Carmen San Diego? After the dot com crash in the late 90s educational games kind of got set to the side. Now it's time for a comeback, we might as well dust off the ole 90s VR headset you have lying around (don’t worry, we’ll develop for a modern HMD, the HTC Vive).
+Remember those math educational games like Number Muncher or Math Blaster? Or Where in the World is Carmen San Diego? After the dot com crash in the late 90s educational games kind of got set to the side. Now it's time for a comeback, we might as well dust off the ole 90s VR headset you have lying around (don’t worry, we’ll develop for a modern HMD, the [[HTC Vive]](https://www.htcvive.com/us/)).
 
 ![alt text](https://cloud.githubusercontent.com/assets/9451726/14905411/d679bce2-0d75-11e6-8d6d-928f3fef69ae.png)
 
-My name is David French. I'm a UX Designer and game developer living in Austin TX. I'm Project Champion for Hack-a-Frac at the 2016 Hack for Change at St. Edward's University. We're looking for any coders, designers, and artists to help us make this game a reality. We're espcially looking for people with previous VR or Unity game dev experience. 
+My name is David French. I'm a UX Designer and game developer living in Austin TX. I'm Project Champion for Hack-a-Frac at the 2016 Hack for Change at St. Edward's University. We're looking for any coders, designers, and artists to help us make this game a reality. We're espcially looking for people with previous VR or [[Unity]](https://unity3d.com/) game dev experience. 
 
-Email me at thedonquixotic@gmail.com to join. I'll add you to our Trello board and help get you up to speed on using our repo and other necessary things like that. And don't forget to [[join the ATX Hack for Change Slack group]](https://atxhack4change.slack.com/messages/_general/) and check out our channel @ vr-fractions. 
+Email me at thedonquixotic@gmail.com to join. I'll add you to our [[Trello board]](https://trello.com/tour) and help get you up to speed on using our Github repository and other necessary things like that. And don't forget to [[join the ATX Hack for Change Slack group]](https://atxhack4change.slack.com/messages/_general/) and check out our channel @ vr-fractions. 
 
 
 <a href="https://youtu.be/oUFqxIEiDS8?t=11s
