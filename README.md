@@ -13,7 +13,7 @@ Math can be difficult for some students. It can seem abstract and doesn’t appe
 
 ![alt text](https://cloud.githubusercontent.com/assets/9451726/14905371/7c922908-0d75-11e6-9dc6-63e51e180034.png)
 
-Virtual reality can bring these two things together. Hack-a-Frac is a educational VR game, in the vein of Fruit Ninja, or Wii Sports Resort, in which you use a sword to cut objects according to fraction problems.
+Virtual reality can bring these two things together. Hack-a-Frac is an action game like [[Fruit Ninja]](https://youtu.be/cAb0cAviA1s?t=1m2s), or [[Wii Sports Speed Slice]](https://youtu.be/oUFqxIEiDS8?t=11s), in which slice targets and solve fraction math problems. 
 
 ![alt text](https://cdn.virtualrealityreporter.com/wp-content/uploads/2015/08/virtual-reality-kids-6.jpg)
 
