@@ -3,6 +3,8 @@
 # Hack-a-Frac
 ###Virtual-Reality Fractions Dojo
 
+![alt text](https://cloud.githubusercontent.com/assets/9451726/14905212/382abd26-0d74-11e6-9c71-e1c40e7ba1a3.png)
+
 Learning is a lot of fun! Games are an exception tool for teaching complex ideas. Games guide players through puzzles and new experiences by challenging and rewarding them, and tugging at their curiosity for more. 
 
 ![alt text](https://cloud.githubusercontent.com/assets/9451726/14905414/e613fd84-0d75-11e6-9d94-f1814ebb0f7f.png)
