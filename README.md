@@ -1,6 +1,6 @@
 ![alt text](http://i.imgur.com/edPIee2.jpg "woo!")
 
-# Hack-a-Frac
+#Hack-a-Frac ![alt text](http://i.imgur.com/Z7hFuls.png)
 ###Virtual-Reality Fractions Dojo
 
 ![alt text](https://cloud.githubusercontent.com/assets/9451726/14905212/382abd26-0d74-11e6-9c71-e1c40e7ba1a3.png)
