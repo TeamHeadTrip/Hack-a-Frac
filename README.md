@@ -19,8 +19,13 @@ You remember those old school math educational games like Number Muncher or Math
 
 ![alt text](https://cloud.githubusercontent.com/assets/9451726/14905411/d679bce2-0d75-11e6-8d6d-928f3fef69ae.png)
 
-My name is David French. I'm a UX Designer and game developer living in Austin TX. I'm Project Champion for Hack-a-Frac at the 2016 Hack for Change at St. Edward's University. We're looking for coders, graphic designers, game designers, sound engineers, 3D modelers, and illustrators to help us make this game a reality. We're espcially looking for people with previous VR or Unity game dev experience.
+My name is David French. I'm a UX Designer and game developer living in Austin TX. I'm Project Champion for Hack-a-Frac at the 2016 Hack for Change at St. Edward's University. We're looking for any coders, designers, and artists to help us make this game a reality. We're espcially looking for people with previous VR or Unity game dev experience. 
 
-Email me at thedonquixotic@gmail.com to join. I'll add you to our Trello board and help get you up to speed on using our repo and other necessary things like that. And don't forget to join the ATX Hack for Change Slack group here: https://atxhack4change.slack.com/messages/_general/ and join our channel at vr_fractions. 
+Email me at thedonquixotic@gmail.com to join. I'll add you to our Trello board and help get you up to speed on using our repo and other necessary things like that. And don't forget to [[join the ATX Hack for Change Slack group]](https://atxhack4change.slack.com/messages/_general/) and check out our channel @ vr-fractions. 
 
-![alt text](https://cloud.githubusercontent.com/assets/9451726/14904875/6b79b55e-0d71-11e6-9c05-2ec52b779cf5.png)
+
+<a href="https://youtu.be/oUFqxIEiDS8?t=11s
+" target="_blank"><img src="https://cloud.githubusercontent.com/assets/9451726/14904875/6b79b55e-0d71-11e6-9c05-2ec52b779cf5.png" 
+alt="Click Here To See Video" width="842" height="456" border="10" /></a>
+*click picture above to see gameplay footage of Wii Sports Swordfighting game*
+
