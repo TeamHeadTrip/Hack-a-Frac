@@ -27,5 +27,7 @@ Email me at thedonquixotic@gmail.com to join. I'll add you to our Trello board a
 <a href="https://youtu.be/oUFqxIEiDS8?t=11s
 " target="_blank"><img src="https://cloud.githubusercontent.com/assets/9451726/14904875/6b79b55e-0d71-11e6-9c05-2ec52b779cf5.png" 
 alt="Click Here To See Video" width="842" height="456" border="10" /></a>
+
+
 *click picture above to see gameplay footage of Wii Sports Swordfighting game*
 
