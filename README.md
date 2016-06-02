@@ -1,13 +1,11 @@
-![alt text](http://i.imgur.com/edPIee2.jpg "woo!")
+![alt text](http://i.imgur.com/JuCi2Zz.jpg "woo!")
 
-#Hack-a-Frac ![alt text](http://i.imgur.com/Z7hFuls.png)
+#Hack-a-Frac
 ###Virtual-Reality Fractions Dojo
-
-![alt text](https://cloud.githubusercontent.com/assets/9451726/14905212/382abd26-0d74-11e6-9c71-e1c40e7ba1a3.png)
 
 Learning is a lot of fun! Games are an exception tool for teaching complex ideas. Games guide players through puzzles and new experiences by challenging and rewarding them, and tugging at their curiosity for more. 
 
-![alt text](https://cloud.githubusercontent.com/assets/9451726/14905414/e613fd84-0d75-11e6-9d94-f1814ebb0f7f.png)
+![alt text](https://cloud.githubusercontent.com/assets/9451726/14905212/382abd26-0d74-11e6-9c71-e1c40e7ba1a3.png)
 
 Math can be difficult for some students. It can seem abstract and doesn’t appear to have immediate relevance in their lives. Math is really cool, though! It’s the universal language we use to describe reality.
 
@@ -19,7 +17,7 @@ Virtual reality can bring these two things together. Hack-a-Frac is an action ga
 
 Remember those math educational games like Number Muncher or Math Blaster? Or Where in the World is Carmen San Diego? After the dot com crash in the late 90s educational games kind of got set to the side. Now it's time for a comeback, we might as well dust off the ole 90s VR headset you have lying around (don’t worry, we’ll develop for a modern HMD, the [[HTC Vive]](https://www.htcvive.com/us/)).
 
-![alt text](https://cloud.githubusercontent.com/assets/9451726/14905411/d679bce2-0d75-11e6-8d6d-928f3fef69ae.png)
+![alt text](http://www.hitrepeat.com/imagehost/200862918928913.jpg)
 
 My name is David French. I'm a UX Designer and game developer living in Austin TX. I'm Project Champion for Hack-a-Frac at the 2016 Hack for Change at St. Edward's University. We're looking for any coders, designers, and artists to help us make this game a reality. We're espcially looking for people with previous VR or [[Unity]](https://unity3d.com/) game dev experience. 
 
