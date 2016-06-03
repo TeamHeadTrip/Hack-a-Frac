@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: fa250b4b79c4bf54da224d9cfbffb463
+timeCreated: 1464919322
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: bein_links
+    100004: bein_rechts
+    100006: Bone
+    100008: Cube_002
+    100010: Cube_003
+    100012: Cube_005
+    100014: Cube_008
+    100016: daumen_links
+    100018: daumen_rechts
+    100020: ellenbogen_links_IK
+    100022: ellenbogen_rechts_IK
+    100024: //RootNode
+    100026: finger_links
+    100028: finger_rechts
+    100030: fuss_links
+    100032: fuss_links_IK
+    100034: fuss_rechts
+    100036: fuss_rechts_IK
+    100038: h_fte_links
+    100040: h_fte_rechts
+    100042: hals
+    100044: hand_links
+    100046: hand_links_IK
+    100048: hand_rechts
+    100050: hand_rechts_IK
+    100052: k_rper_unten
+    100054: knie_links_IK
+    100056: knie_rechts_IK
+    100058: kopf
+    100060: mittelfinger_links
+    100062: mittelfinger_rechts
+    100064: oberarm_links
+    100066: oberarm_rechts
+    100068: oberk_rper
+    100070: schienbein_links
+    100072: schienbein_rechts
+    100074: schulter_links
+    100076: schulter_rechts
+    100078: unterarm_links
+    100080: unterarm_rechts
+    400000: Armature
+    400002: bein_links
+    400004: bein_rechts
+    400006: Bone
+    400008: Cube_002
+    400010: Cube_003
+    400012: Cube_005
+    400014: Cube_008
+    400016: daumen_links
+    400018: daumen_rechts
+    400020: ellenbogen_links_IK
+    400022: ellenbogen_rechts_IK
+    400024: //RootNode
+    400026: finger_links
+    400028: finger_rechts
+    400030: fuss_links
+    400032: fuss_links_IK
+    400034: fuss_rechts
+    400036: fuss_rechts_IK
+    400038: h_fte_links
+    400040: h_fte_rechts
+    400042: hals
+    400044: hand_links
+    400046: hand_links_IK
+    400048: hand_rechts
+    400050: hand_rechts_IK
+    400052: k_rper_unten
+    400054: knie_links_IK
+    400056: knie_rechts_IK
+    400058: kopf
+    400060: mittelfinger_links
+    400062: mittelfinger_rechts
+    400064: oberarm_links
+    400066: oberarm_rechts
+    400068: oberk_rper
+    400070: schienbein_links
+    400072: schienbein_rechts
+    400074: schulter_links
+    400076: schulter_rechts
+    400078: unterarm_links
+    400080: unterarm_rechts
+    2300000: Cube_002
+    2300002: Cube_003
+    2300004: Cube_008
+    3300000: Cube_002
+    3300002: Cube_003
+    3300004: Cube_008
+    4300000: Cube_005
+    4300002: Cube_008
+    4300004: Cube_003
+    4300006: Cube_002
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Cube_005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
