@@ -6,6 +6,10 @@ public class ObjectPath : MonoBehaviour
 	public float travelTime = 2.0f;
 	public Transform[] path;
 
+	public void GoTo() {
+		StartCoroutine (Go());
+	}
+
 	IEnumerator Go ()
 	{
 		foreach (var xform in path) {
