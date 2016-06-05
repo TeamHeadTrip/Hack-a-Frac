@@ -5,11 +5,11 @@ using System.Collections.Generic
 public class LevelController : MonoBehaviour
 {
 	public List<ItemController> items;
+	public ObjectCount pot;
 
 	public Transform hoverPos;
 
 	private ItemController currentItem;
-	private ObjectCount count;
 
 	void Start ()
 	{
@@ -35,11 +35,13 @@ public class LevelController : MonoBehaviour
 
 	bool CheckLevel ()
 	{
-		var levelCompleted = count.Count >= currentItem.numerator;
+		if (currentItem != null) {
+			var levelCompleted = pot.Count >= currentItem.numerator;
 
-		if (levelCompleted) {
-			currentItem.EndLevel();
-			return true;
+			if (levelCompleted) {
+				currentItem.EndLevel();
+				return true;
+			}
 		}
 		return false;
 	}
