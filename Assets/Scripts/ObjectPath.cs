@@ -6,14 +6,14 @@ public class ObjectPath : MonoBehaviour
 	public float travelTime = 2.0f;
 	public Transform[] path;
 
-	public void GoTo() {
-		StartCoroutine (Go());
+	public void GoTo(GameObject self = null) {
+		StartCoroutine (Go(self ?? this.gameObject));
 	}
 
-	IEnumerator Go ()
+	IEnumerator Go (GameObject self)
 	{
 		foreach (var xform in path) {
-			var start = this.gameObject.transform.position;
+			var start = self.gameObject.transform.position;
 			var dest = xform.position;
 			var time = 0f;
 
@@ -21,11 +21,11 @@ public class ObjectPath : MonoBehaviour
 
 				time += Time.deltaTime;
 				var newPos = Vector3.Lerp (start, dest, time / this.travelTime);
-				this.gameObject.transform.position = newPos;
+				self.gameObject.transform.position = newPos;
 				yield return new WaitForEndOfFrame ();
 			}
 		}
-		this.gameObject.transform.position = path[path.Length - 1].position;
+		self.gameObject.transform.position = path[path.Length - 1].position;
 	}
 
 	void OnDrawGizmos ()

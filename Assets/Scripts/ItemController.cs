@@ -9,7 +9,7 @@ public class ItemController : MonoBehaviour {
 	public ObjectPath path;
 
 	public void StartLevel (Transform xform) {
-		path.GoTo();
+		path.GoTo(this.gameObject);
 		this.tag = "Piece";
 	}
 

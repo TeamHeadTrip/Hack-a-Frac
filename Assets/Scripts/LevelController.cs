@@ -21,6 +21,8 @@ public class LevelController : MonoBehaviour
 		if (CheckLevel ()) {
 			StartLevel ();
 		}
+
+		Debug.Log(CheckLevel ());
 	}
 
 	void StartLevel ()
