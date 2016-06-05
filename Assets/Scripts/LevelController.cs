@@ -9,6 +9,7 @@ public class LevelController : MonoBehaviour
 	public Transform hoverPos;
 
 	private ItemController currentItem;
+	private ObjectCount count;
 
 	void Start ()
 	{
@@ -17,10 +18,8 @@ public class LevelController : MonoBehaviour
 
 	void Update ()
 	{
-		if (Input.GetKeyDown(KeyCode.Space)) {
-			if (CheckLevel ()) {
-				StartLevel ();
-			}
+		if (CheckLevel ()) {
+			StartLevel ();
 		}
 	}
 
@@ -36,8 +35,9 @@ public class LevelController : MonoBehaviour
 
 	bool CheckLevel ()
 	{
-		// Check if completed, if so...
-		if (currentItem != null) {
+		var levelCompleted = count.Count >= currentItem.numerator;
+
+		if (levelCompleted) {
 			currentItem.EndLevel();
 			return true;
 		}

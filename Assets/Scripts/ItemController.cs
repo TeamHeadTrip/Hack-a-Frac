@@ -3,6 +3,9 @@ using System.Collections;
 
 public class ItemController : MonoBehaviour {
 
+	public int numerator = 1;
+	public int denominator = 1;
+
 	public void StartLevel (Transform xform) {
 		StartCoroutine (MoveTo (xform));
 		this.tag = "Piece";
