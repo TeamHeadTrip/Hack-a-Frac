@@ -30,6 +30,10 @@ public class ObjectPath : MonoBehaviour
 
 	void OnDrawGizmos ()
 	{
+		if (path == null) {
+			return;
+		}
+
 		Gizmos.color = new Color (1, 0, 1, .5f);
 
 		if (path.Length > 0) {
